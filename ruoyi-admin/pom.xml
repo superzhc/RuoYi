@@ -67,6 +67,14 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
 
+        <!--region 自定义模块-->
+        <dependency>
+            <groupId>com.ruoyi</groupId>
+            <artifactId>ruoyi-fund</artifactId>
+        </dependency>
+
+        <!--endregion-->
+
     </dependencies>
 
     <build>
